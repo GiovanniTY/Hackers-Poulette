@@ -1,0 +1,20 @@
+/* css/styles.css */
+@font-face {
+    font-family: 'Bellota Bold';
+    src: url('/assets/fonts/Bellota-Bold.otf') format('woff2'),
+         url('/assets/fonts/Bellota-BoldItalic.otf') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Bellota Bold', sans-serif;
+    background-color: #0d8187;
+}
+
+#container{
+    background-color: white;
+    border: 2px solid black;
+}
+
+
