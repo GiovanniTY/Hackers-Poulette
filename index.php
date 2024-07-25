@@ -82,8 +82,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && !empty($_POST)) {
         $mail->isSMTP();
         $mail->Host = "smtp.gmail.com";
         $mail->SMTPAuth = true;
-        $mail->Username = "shavuk97@gmail.com"; // Modifica con il tuo indirizzo email
-        $mail->Password = "ldutybnxvidlasng"; // Modifica con la tua password
+        $mail->Username = ""; // Modifica con il tuo indirizzo email
+        $mail->Password = ""; // Modifica con la tua password
         $mail->SMTPSecure = "ssl";
         $mail->Port = 465;
 
