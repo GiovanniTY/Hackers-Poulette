@@ -14,7 +14,7 @@
 <nav class="navbar bg-body-tertiary" data-bs-theme="light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
-      <img src="/assets/hackers-poulette-logo.png" alt="Logo" width="150" height="100" class="d-inline-block align-text-top">
+      <img src="img/hackers-poulette-logo.png" alt="Logo" width="150" height="100" class="d-inline-block align-text-top">
       <p class="mt-2">Hackers-poulette</p>
     </a>
   </div>
