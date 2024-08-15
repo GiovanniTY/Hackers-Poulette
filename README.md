@@ -1,6 +1,6 @@
 # Hackers Poulette™ Contact Form
 
-![Project Screenshot](![alt text](<img/Capture d’écran 2024-08-15 à 13.25.56.png>)) 
+(![alt text](<img/Capture d’écran 2024-08-15 à 13.25.56.png>)) 
 ## Project Overview
 
 This project was developed for **Hackers Poulette™**, a company that sells Raspberry Pi accessory kits. The mission was to create a fully functional online contact form that allows users to reach out to the support team.
